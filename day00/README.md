@@ -1,8 +1,8 @@
 # Day 00
 
 - Exercise 00: Pre-requisites
-- [Exercise 01: testDay00](https://github.com/therootsixtyfour/42/tree/main/day00/ex01 "testDay00")
-- Exercise 02: Oh yeah, mooore.
+- [Exercise 01: testDay00](https://github.com/therootsixtyfour/42/tree/main/day00/ex01 "ex1")
+- [Exercise 02: Oh yeah, mooore.](https://github.com/therootsixtyfour/42/tree/main/day00/ex02 "ex2")
 - Exercise 03: Connect me!
 - Exercise 04: Who am I?
 - Exercise 05: Who's with me?
