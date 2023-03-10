@@ -13,7 +13,7 @@ Let's jump into the deep end.
 - [Day 00]() <!-- link to next file -->
 
 
-#### About
+## About
 
 
 I strive to understand how things work. I've been priveledged with a diverse work and travel history that has afforded me unique perspectives to my next endeavors. 
