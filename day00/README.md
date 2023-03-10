@@ -7,7 +7,7 @@
 - Exercise 04: Who am I?
 - Exercise 05: Who's with me?
 - Exercise 06: Hello!
-- Exercise 07: midLS
+- [Exercise 07: midLS](https://github.com/therootsixtyfour/42/tree/main/day00/ex07 "ex7")
 - Exercise 08: Z
 - Exercise 09: diff
 - Exercise 10: clean
