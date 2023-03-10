@@ -10,7 +10,7 @@ Let's jump into the deep end.
 
 ### C
 
-- [Day 00]() <!-- link to next file -->
+- [Day 00](https://github.com/therootsixtyfour/42/tree/main/day00 "Day 00")
 
 
 ## About

@@ -1,7 +1,7 @@
 # Day 00
 
 - Exercise 00: Pre-requisites
-- Exercise 01: testDay00
+- [Exercise 01: testDay00]("https://github.com/therootsixtyfour/42/tree/main/day00/ex01" "testDay00")
 - Exercise 02: Oh yeah, mooore.
 - Exercise 03: Connect me!
 - Exercise 04: Who am I?
