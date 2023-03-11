@@ -1,6 +1,6 @@
  # Day 01
 
-## Exercise 1
+## Exercise 2
 
 ### Answer
 ``` bash
