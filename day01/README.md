@@ -2,7 +2,7 @@
 
 - Exercise 00: Exam
 - [Exercise 01: print_groups](https://github.com/therootsixtyfour/42/tree/main/day01/ex01 "ex01")
-- Exercise 02: find_sh
+- [Exercise 02: find_sh](https://github.com/therootsixtyfour/42/tree/main/day01/ex02 "ex02")
 - Exercise 03: count_file
 - Exercise 04: MAC
 - Exercise 05: Can you create it?
