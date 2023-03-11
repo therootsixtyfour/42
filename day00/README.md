@@ -11,4 +11,4 @@
 - [Exercise 08: Z](https://github.com/therootsixtyfour/42/tree/main/day00/ex08 "ex08")
 - [Exercise 09: diff](https://github.com/therootsixtyfour/42/tree/main/day00/ex09 "ex09")
 - [Exercise 10: clean](https://github.com/therootsixtyfour/42/tree/main/day00/ex10 "ex10")
-- Exercise 11:Illusions, not tricks, Michael...
+- [Exercise 11:Illusions, not tricks, Michael...](https://github.com/therootsixtyfour/42/tree/main/day00/ex11 "ex11")
