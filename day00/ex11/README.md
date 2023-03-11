@@ -16,6 +16,7 @@ The ft_magic can be passed to the ```file -m```  command as an argument, as inst
 3. that string will be '42'
 4. then you'll return the '42 file' type
 
+[IBM Documentation](https://www.ibm.com/docs/en/zos/2.4.0?topic=formats-magic-format-etcmagic-file "IBM on file magic") was the most helpful at understanding this.
 
 
 
