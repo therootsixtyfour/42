@@ -7,6 +7,6 @@
 - [Exercise 04: MAC](https://github.com/therootsixtyfour/42/tree/main/day01/ex04 "ex04")
 - [Exercise 05: Can you create it?](https://github.com/therootsixtyfour/42/tree/main/day01/ex05 "ex05")
 - [Exercise 06: Skip](https://github.com/therootsixtyfour/42/tree/main/day01/ex06 "ex06")
-- Exercise 07:r_dwssap
+- [Exercise 07:r_dwssap](https://github.com/therootsixtyfour/42/tree/main/day01/ex07 "ex07")
 - Exercise 08: bon
 - Exercise 09: add_chelou
